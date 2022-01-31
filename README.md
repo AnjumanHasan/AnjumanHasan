@@ -1,6 +1,6 @@
-# 👋 Hi, I’m  Anjuman Hasan 
-## <p><em>An Engineering Undergraduate, majoring in Computer Science. 😊
-#### <p> I love all things tech and I never want to stop learning!</p>
+<h1 align = "center">👋 Hi, I’m  Anjuman Hasan </h1>
+<p><em>An Engineering Undergraduate, majoring in Computer Science. 😊
+ <p> I love all things tech and I never want to stop learning!</p>
 
 ## 💻 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
