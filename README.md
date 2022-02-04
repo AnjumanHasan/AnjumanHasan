@@ -1,6 +1,22 @@
 <h1 align = "center">👋 Hi, I’m  Anjuman Hasan </h1>
 <p><em>An Engineering Undergraduate, majoring in Computer Science. 😊
  <p> I love all things tech and I never want to stop learning!</p>
+ <h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anjuman-hasan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anjuman%20Hasan-blue?style=flat-square&logo=linkedin"></a>
+ 
+ <a href="mailto:anju2084@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anju2084@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+<a href="https://www.instagram.com/anjjuu_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-anjjuu-black?style=flat-square&logo=instagram"></a>
+
+
+
+</p>
+
 
 ## 💻 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
@@ -52,19 +68,6 @@
 
 </br></br>
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/anjuman-hasan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anjuman%20Hasan-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/anjjuu_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-anjjuu-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:anju2084@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anju2084@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
 
 ---
 
