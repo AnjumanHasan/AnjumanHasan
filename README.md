@@ -4,11 +4,7 @@
  
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anjuman-hasan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anjuman%20Hasan-blue?style=flat-square&logo=linkedin"></a>
- 
- <a href="mailto:anju2084@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anju2084@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-<a href="https://www.instagram.com/anjjuu_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-anjjuu-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/anjuman-hasan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anjuman%20Hasan-blue?style=flat-square&logo=linkedin"></a>    <a href="mailto:anju2084@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anju2084@gmail.com-blue?style=flat-square&logo=gmail"></a>    <a href="https://www.instagram.com/anjjuu_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-anjjuu-black?style=flat-square&logo=instagram"></a>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 
